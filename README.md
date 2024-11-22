@@ -6,7 +6,7 @@
 - 🌐 I'm currently enhancing my skills in reactJS.
 - 📱 I'm currently fixing some bugs in BCS Android app.
 - 💡 I'm working on BCS website.
-- 🛠️ I have more than 6 years with android apps developement using Java and Kotlin.
+- 🛠️ I have more than 6 years experience with android apps developement using Java and Kotlin.
 
 ## 📂 Projects & Contributions:
 - 💻 Check out my repositories for hands-on projects in mobile and web development.
