@@ -13,4 +13,4 @@
 - 🌟 Always open to collaborating on innovative projects and learning new things together!
 
 ## 📫 Get in Touch:
-- 📧 [Your Email](fares.mdh1@gmail.com)
+- 📧 [my Email](mailto:fares.mdh1@gmail.com)
