@@ -9,7 +9,7 @@
 - 🛠️ More than 6 years experience with android apps developement using Java and Kotlin.
 
 ## 📂 Projects & Contributions:
-- 💻 Check out my repositories for hands-on projects in mobile and web development.
+- 💻 Check out my repositories or <a href="https://meddahi-fares.netlify.app" target="_blank">My portfolio<a/> for hands-on projects in mobile and web development.
 - 🌟 Always open to collaborating on innovative projects and learning new things together!
 
 ## 📫 Get in Touch:
