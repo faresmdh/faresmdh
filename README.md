@@ -32,8 +32,6 @@
 ## 📫 Let's Connect
 - 📧 [fares.mdh1@gmail.com](mailto:fares.mdh1@gmail.com)
 - 🌐 [Portfolio Website](https://meddahi-fares.netlify.app)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile) (optional)
-- 🐦 [Twitter](https://twitter.com/yourhandle) (optional)
 
 ![Android Expert](https://img.shields.io/badge/Android_Dev-Expert-important?style=for-the-badge)
 ![Full Stack](https://img.shields.io/badge/Full_Stack-Developer-blueviolet?style=for-the-badge)
