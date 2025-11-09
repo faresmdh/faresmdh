@@ -38,7 +38,7 @@
 - Database design and optimization with PostgreSQL/Supabase
 
 ## 📫 Let's Connect
-- 📧 [fares.mdh1@gmail.com](mailto:fares.mdh1@gmail.com)
+- 📧 [fares.meddahi@univ-bouira.dz](mailto:fares.mdh1@gmail.com)
 - 🌐 [Portfolio Website](https://meddahi-fares.netlify.app)
 
 ![Android Expert](https://img.shields.io/badge/Android_Dev-Expert-important?style=for-the-badge)
