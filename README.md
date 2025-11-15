@@ -3,8 +3,8 @@
 🎓 **Computer Science Student** | **Full-Stack Developer** passionate about cross-platform solutions
 
 ## 🚀 About Me
-- 💻 6+ years experience in Android development (**Java** & **Kotlin**)
-- 🌱 Currently mastering **ReactJS**, **Electron.js**, and desktop GUI frameworks
+- 📱 6+ years experience in Android development (**Java** & **Kotlin**)
+- 💻 3+ years experience in frontend development 
 - 🛠️ Strong focus on clean architecture and performance optimization
 - ⚡ Enjoy solving complex problems with elegant code solutions
 
@@ -26,9 +26,9 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Core Languages:** Java, Kotlin, Python, C, JavaScript/TypeScript  
-**Frontend:** React, HTML5, CSS3, TailwindCSS  
+**Frontend:** React, HTML5, CSS3, TailwindCSS  , XML in Android
 **Desktop:** Electron.js, Java Swing, Java AWT  
-**Databases:** PostgreSQL, Firebase, SQL  
+**Databases:** PostgreSQL, Firebase, mySQL, SQLite, Supabase  
 **Tools:** Android Studio, Git
 
 ## 💡 Technical Focus
